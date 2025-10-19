@@ -1,0 +1,22 @@
+--name
+Zoidburg
+--inventory
+medical kit
+--attr
+smarts 5
+--attr
+buffness 16
+--attr
+smarminess 12
+--attr
+sneakiness 6
+--attr
+common_sense 3
+--attr
+liveness 13
+--skill
+sports 2
+--skill
+doctoring 1
+--skill
+bluffing 2

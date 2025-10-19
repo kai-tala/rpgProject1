@@ -1,0 +1,18 @@
+--name
+Dade Murphy
+--attr
+smarts 18
+--attr
+buffness 6
+--attr
+smarminess 10
+--attr
+sneakiness 5
+--attr
+common_sense 15
+--attr
+liveness 4
+--skill
+Programming 8
+--skill
+Sudoku 2

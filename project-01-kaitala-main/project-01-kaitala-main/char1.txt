@@ -1,0 +1,20 @@
+--name
+Jaque
+--inventory
+protein shake
+--attr
+smarts 9
+--attr
+buffness 17
+--attr
+smarminess 9
+--attr
+sneakiness 6
+--attr
+common_sense 10
+--attr
+liveness 18
+--skill
+Sports 8
+--skill
+Sprinting 2

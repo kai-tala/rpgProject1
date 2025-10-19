@@ -1,0 +1,24 @@
+--name
+Philip Fry
+--inventory
+wallet
+--inventory
+can of slurm
+--inventory
+can of slurm
+--inventory
+Calculon's autograph
+--attr
+smarts 6
+--attr
+buffness 6
+--attr
+smarminess 12
+--attr
+sneakiness 16
+--attr
+common_sense 5
+--attr
+liveness 11
+--skill
+time_travel 2

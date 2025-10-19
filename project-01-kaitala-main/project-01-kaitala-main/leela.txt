@@ -1,0 +1,26 @@
+--name
+Turanga Leela
+--inventory
+spaceship keys
+--inventory
+spare boots
+--inventory
+monocle
+--attr
+smarts 19
+--attr
+buffness 6
+--attr
+smarminess 13
+--attr
+sneakiness 7
+--attr
+common_sense 14
+--attr
+liveness 9
+--skill
+programming 3
+--skill
+piloting 4
+--skill
+bluffing 3
